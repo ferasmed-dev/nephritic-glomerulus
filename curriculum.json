@@ -1,0 +1,14 @@
+{
+  "topic": "Nephritic syndrome and glomerulonephritis",
+  "topic_es": "Síndrome nefrítico y glomerulonefritis",
+  "system": "Renal / urinary",
+  "specialty": "Nephrology",
+  "eciModule": "Formación clínica humana",
+  "typicalSubjects": ["Nefrología", "Patología médica", "Fisiopatología", "Anatomía patológica", "Inmunología"],
+  "mirRelevant": true,
+  "keywords_es": ["síndrome nefrítico", "glomerulonefritis", "complemento C3", "GN postestreptocócica", "nefropatía IgA", "vasculitis IgA", "nefritis lúpica", "GN membranoproliferativa", "glomerulopatía C3", "crioglobulinemia", "anti-MBG", "Goodpasture", "ANCA", "GNRP", "semilunas", "inmunofluorescencia"],
+  "keywords_en": ["nephritic syndrome", "glomerulonephritis", "complement C3", "post-streptococcal GN", "IgA nephropathy", "IgA vasculitis", "lupus nephritis", "membranoproliferative GN", "C3 glomerulopathy", "cryoglobulinemia", "anti-GBM", "Goodpasture", "ANCA", "RPGN", "crescents", "immunofluorescence"],
+  "languages": ["es", "en"],
+  "type": "interactive atlas and simulator",
+  "url": "https://ferasmed-dev.github.io/nephritic-glomerulus/"
+}

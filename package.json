@@ -1,0 +1,11 @@
+{
+  "name": "nephritic-glomerulus",
+  "version": "1.0.0",
+  "description": "Interactive glomerulus showing every nephritic-syndrome entity: pathogenesis, immunofluorescence and lab values against normal ranges (ES/EN).",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "author": "Feras Elhissi"
+}
